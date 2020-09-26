@@ -192,3 +192,7 @@ CMakeFiles/sketches.dir/main.c.obj
  ../libmx/inc/libmx.h
  C:/Users/Admin/CLionProjects/sketches/header.h
  C:/Users/Admin/CLionProjects/sketches/main.c
+CMakeFiles/sketches.dir/timer.c.obj
+ ../libmx/inc/libmx.h
+ C:/Users/Admin/CLionProjects/sketches/header.h
+ C:/Users/Admin/CLionProjects/sketches/timer.c

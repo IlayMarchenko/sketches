@@ -1,6 +1,6 @@
 #include "header.h"
 
 int main() {
-    printf("%s\n", convert_bytes(223414112));
+    timer(1, 0, 0);
     return 0;
 }

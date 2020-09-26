@@ -192,3 +192,7 @@ CMakeFiles/sketches.dir/main.c.obj: ../libmx/inc/libmx.h
 CMakeFiles/sketches.dir/main.c.obj: ../header.h
 CMakeFiles/sketches.dir/main.c.obj: ../main.c
 
+CMakeFiles/sketches.dir/timer.c.obj: ../libmx/inc/libmx.h
+CMakeFiles/sketches.dir/timer.c.obj: ../header.h
+CMakeFiles/sketches.dir/timer.c.obj: ../timer.c
+

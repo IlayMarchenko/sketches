@@ -24,5 +24,6 @@ typedef struct s_lattrib {
 }       t_lattrib;
 
 char *convert_bytes(int size);
+void timer(int hours, int minutes, int seconds);
 
 #endif //SKETCHES_HEADER_H

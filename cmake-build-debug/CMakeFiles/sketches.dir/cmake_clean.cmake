@@ -62,6 +62,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/sketches.dir/libmx/src/mx_to_lower.c.obj"
   "CMakeFiles/sketches.dir/libmx/src/mx_to_upper.c.obj"
   "CMakeFiles/sketches.dir/main.c.obj"
+  "CMakeFiles/sketches.dir/timer.c.obj"
   "libsketches.dll.a"
   "sketches.exe"
   "sketches.exe.manifest"

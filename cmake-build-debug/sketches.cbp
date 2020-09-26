@@ -271,6 +271,9 @@
 		<Unit filename="C:/Users/Admin/CLionProjects/sketches/main.c">
 			<Option target="sketches"/>
 		</Unit>
+		<Unit filename="C:/Users/Admin/CLionProjects/sketches/timer.c">
+			<Option target="sketches"/>
+		</Unit>
 		<Unit filename="C:/Users/Admin/CLionProjects/sketches/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

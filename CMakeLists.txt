@@ -68,4 +68,4 @@ add_executable(sketches
         libmx/src/mx_swap_char.c
         libmx/src/mx_to_lower.c
         libmx/src/mx_to_upper.c
-        main.c header.h convert_bytes.c)
+        main.c header.h convert_bytes.c timer.c)

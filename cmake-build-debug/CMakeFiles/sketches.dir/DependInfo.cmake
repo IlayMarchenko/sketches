@@ -67,6 +67,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "C:/Users/Admin/CLionProjects/sketches/libmx/src/mx_to_lower.c" "C:/Users/Admin/CLionProjects/sketches/cmake-build-debug/CMakeFiles/sketches.dir/libmx/src/mx_to_lower.c.obj"
   "C:/Users/Admin/CLionProjects/sketches/libmx/src/mx_to_upper.c" "C:/Users/Admin/CLionProjects/sketches/cmake-build-debug/CMakeFiles/sketches.dir/libmx/src/mx_to_upper.c.obj"
   "C:/Users/Admin/CLionProjects/sketches/main.c" "C:/Users/Admin/CLionProjects/sketches/cmake-build-debug/CMakeFiles/sketches.dir/main.c.obj"
+  "C:/Users/Admin/CLionProjects/sketches/timer.c" "C:/Users/Admin/CLionProjects/sketches/cmake-build-debug/CMakeFiles/sketches.dir/timer.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
