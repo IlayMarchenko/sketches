@@ -1,6 +1,6 @@
 #include "header.h"
 
 int main() {
-    timer(1, 0, 0);
+    timer(5, 20, 38);
     return 0;
 }
